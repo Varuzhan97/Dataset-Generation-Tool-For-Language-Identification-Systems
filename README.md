@@ -14,7 +14,8 @@ The system takes the recording received from a microphone and has a ".wav" exten
 Install all python requirements:
 *pip3 install -r requirements.txt*
 
-To predict a single audio file run:
+## Run
+*python3 main.py*
 
 
 
