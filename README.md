@@ -10,8 +10,14 @@ The system takes the recording received from a microphone and has a ".wav" exten
 ![alt text](https://github.com/Varuzhan97/Dataset-Generation-Tool-For-Language-Identification-Systems/blob/master/Structure%20Of%20The%20System/structure.png?raw=true)
 
 
-## Requirements
-Install all python requirements:
+Configurations for recording:
+1. Sampling size is 16 bit integer format.
+2. Channels number is 1.
+3. Sampling rate is 44100 Hz.
+4. The number of frames per buffer is 1024.
+
+
+## Install Python 3 Requirements
 *pip3 install -r requirements.txt*
 
 ## Run
