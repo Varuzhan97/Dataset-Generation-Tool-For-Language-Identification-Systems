@@ -1,5 +1,5 @@
 # Dataset-Generation-Tool-For-Language-Identification-Systems
-Dataset Generation Tool For Language Identification Systems That Use Deep Convolutional Recurrent Neural Networks.
+Dataset generation tool for language identification systems that use Deep Convolutional Recurrent Neural Networks.
 
 ## Description 
 Datasets are an integral part of the field of machine learning. The tool can generate a human-labelled dataset from the environment(both noisy and clear)  for [language identification (LID) systems that use deep convolutional recurrent neural networks (CRNN)](https://arxiv.org/pdf/1708.04811.pdf).
