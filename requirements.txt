@@ -1,0 +1,6 @@
+ numpy
+ Pillow
+ pyaudio
+ glob
+ imageio
+ sox
