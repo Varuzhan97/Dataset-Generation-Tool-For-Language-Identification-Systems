@@ -36,7 +36,7 @@ The creation of spectrograms is followed by the process of checking bad spectrog
 *pip3 install -r requirements.txt*
 
 ## Run
-*go into the "Source" folder and run "python3 main.py" command.*
+*Go into the "Source" folder and run "python3 main.py" command.*
 
 
 
